@@ -20,3 +20,7 @@
   
 > 전화입니다. 부대 주세요.
 > - Anonymous2
+
+```
+if(substr(flag,8,1)=ord(a),sleep(1000),select 1 union select 2)
+```
